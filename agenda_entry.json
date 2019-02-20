@@ -1,0 +1,13 @@
+{
+    "data": {
+        "lookups": [
+            "free-text"
+        ],
+        "name": "agenda_entry",
+        "lang": "en",
+        "id": "agenda_entry",
+        "doc": "{\"spanless\":false,\"short_desc\":\"things to do\",\"long_desc\":\"Extrapolates typical agenda items from free text\",\"examples\":[{\"expression\":[\"I need to\",\"go to the dentist\",\"\"],\"response\":\"\\\"entities\\\": {\\n        \\\"agenda_entry\\\": [\\n          {\\n            \\\"value\\\": \\\"go to the dentist\\\"\\n          }\\n        ]\\n      }\",\"$$hashKey\":\"058\"}],\"similar_wisps\":[{\"name\":\"\",\"$$hashKey\":\"05A\"}]}",
+        "builtin": true,
+        "values": []
+    }
+}

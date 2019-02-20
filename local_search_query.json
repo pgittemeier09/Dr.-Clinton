@@ -1,0 +1,13 @@
+{
+    "data": {
+        "lookups": [
+            "free-text"
+        ],
+        "name": "local_search_query",
+        "lang": "en",
+        "id": "local_search_query",
+        "doc": "{\"spanless\":false,\"short_desc\":\"name of local places, shop or business\",\"long_desc\":\"Captures free text that's a query for a local search, like `flowers shop` or `peets coffee`.\",\"examples\":[{\"expression\":[\"go to the nearest\",\"peets coffee\",\"\"],\"response\":\"\\\"entities\\\": {\\n        \\\"local_search_query\\\": [\\n          {\\n            \\\"value\\\": \\\"peets coffee\\\"\\n          }\\n        ]\\n      }\",\"$$hashKey\":\"07K\"}],\"similar_wisps\":[{\"name\":\"wit\/location\",\"$$hashKey\":\"07M\"}]}",
+        "builtin": true,
+        "values": []
+    }
+}

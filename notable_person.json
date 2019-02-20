@@ -1,0 +1,11 @@
+{
+    "data": {
+        "lookups": [],
+        "name": "notable_person",
+        "lang": "en",
+        "id": "notable_person",
+        "doc": "Captures and resolves names of notable people and public figures, like `Mark Zuckerberg` and `Grace Hopper`.",
+        "builtin": true,
+        "values": []
+    }
+}

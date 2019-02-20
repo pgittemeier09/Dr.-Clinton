@@ -1,0 +1,13 @@
+{
+    "data": {
+        "lookups": [
+            "free-text"
+        ],
+        "name": "volume",
+        "lang": "en",
+        "id": "volume",
+        "doc": "{\"spanless\":false,\"short_desc\":\"measure of volume\",\"long_desc\":\"Captures measures of volume like `250 ml`, `3 gal`\",\"examples\":[{\"expression\":[\"fill up\",\"250ml\",\"\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"volume\\\" : [ {\\n        \\\"type\\\" : \\\"value\\\",\\n        \\\"value\\\" : 250,\\n        \\\"unit\\\" : \\\"Millilitre\\\"\\n      } ]\\n    }\",\"$$hashKey\":\"0H2\"},{\"expression\":[\"I need a\",\"7 gallons\",\"trash bag\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"volume\\\" : [ {\\n        \\\"type\\\" : \\\"value\\\",\\n        \\\"value\\\" : 7,\\n        \\\"unit\\\" : \\\"Gallon\\\"\\n      } ]\\n    }\",\"$$hashKey\":\"0IW\"}],\"similar_wisps\":[{\"name\":\"\",\"$$hashKey\":\"0H4\"}]}",
+        "builtin": true,
+        "values": []
+    }
+}

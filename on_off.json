@@ -1,0 +1,26 @@
+{
+    "data": {
+        "lookups": [
+            "trait"
+        ],
+        "name": "on_off",
+        "lang": "en",
+        "id": "on_off",
+        "doc": "{\"spanless\":true,\"short_desc\":\"command for a device which has 2 states\",\"long_desc\":\"Spanless entity that deciphers the intent of toggling something, like `turning on the lights`, `turn the tv off` or 'toggle the shades`. No need to highlight a specific part (or span) in the sentence.\",\"examples\":[{\"expression\":[\"\",\"turn on the lights\",\"\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"on_off\\\" : [ {\\n        \\\"value\\\" : \\\"on\\\"\\n      } ]\\n    }\",\"$$hashKey\":\"05E\"}],\"similar_wisps\":[{\"name\":\"\",\"$$hashKey\":\"05G\"}]}",
+        "builtin": true,
+        "values": [
+            {
+                "value": "toggle",
+                "expressions": []
+            },
+            {
+                "value": "off",
+                "expressions": []
+            },
+            {
+                "value": "on",
+                "expressions": []
+            }
+        ]
+    }
+}

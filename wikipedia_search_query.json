@@ -1,0 +1,13 @@
+{
+    "data": {
+        "lookups": [
+            "free-text"
+        ],
+        "name": "wikipedia_search_query",
+        "lang": "en",
+        "id": "wikipedia_search_query",
+        "doc": "Captures free text that's a typical query for Wikipedia, like `James Cook`.",
+        "builtin": true,
+        "values": []
+    }
+}

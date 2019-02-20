@@ -1,0 +1,13 @@
+{
+    "data": {
+        "lookups": [
+            "free-text"
+        ],
+        "name": "phrase_to_translate",
+        "lang": "en",
+        "id": "phrase_to_translate",
+        "doc": "Captures free text that's a phrase the user wants to translate.",
+        "builtin": true,
+        "values": []
+    }
+}
