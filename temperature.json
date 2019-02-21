@@ -1,0 +1,13 @@
+{
+    "data": {
+        "lookups": [
+            "free-text"
+        ],
+        "name": "temperature",
+        "lang": "en",
+        "id": "temperature",
+        "doc": "{\"spanless\":false,\"short_desc\":\"measure of hot and cold\",\"long_desc\":\"Captures the user\u2019s desired temperature in celsius or fahrenheit\",\"examples\":[{\"expression\":[\"set the temperature to\",\"70\u00b0C\",\"\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"temperature\\\" : [ {\\n        \\\"type\\\" : \\\"value\\\",\\n        \\\"value\\\" : 70,\\n        \\\"unit\\\" : \\\"celsius\\\"\\n      } ]\\n    }\",\"$$hashKey\":\"0BC\"},{\"expression\":[\"set thermostat to\",\"84 degrees\",\"\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"temperature\\\" : [ {\\n        \\\"type\\\" : \\\"value\\\",\\n        \\\"value\\\" : 84,\\n        \\\"unit\\\" : \\\"degree\\\"\\n      } ]\\n    }\",\"$$hashKey\":\"BC4\"},{\"expression\":[\"set nest thermostat\",\"75\",\"\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"temperature\\\" : [ {\\n        \\\"type\\\" : \\\"value\\\",\\n        \\\"value\\\" : 75\\n      } ]\\n    }\",\"$$hashKey\":\"BC6\"},{\"expression\":[\"set temperature to\",\"72\u00b0F\",\"\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"temperature\\\" : [ {\\n        \\\"type\\\" : \\\"value\\\",\\n        \\\"value\\\" : 72,\\n        \\\"unit\\\" : \\\"fahrenheit\\\"\\n      } ]\\n    }\",\"$$hashKey\":\"BC8\"}],\"similar_wisps\":[{\"name\":\"\",\"$$hashKey\":\"0BE\"}]}",
+        "builtin": true,
+        "values": []
+    }
+}

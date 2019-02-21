@@ -1,0 +1,18 @@
+{
+    "data": {
+        "lookups": [
+            "trait"
+        ],
+        "name": "bye",
+        "lang": "en",
+        "id": "bye",
+        "doc": "{\"spanless\":true,\"short_desc\":\"captures goodbye intent\",\"long_desc\":\"BETA - Binary trait entity that captures goodbye intents (example: 'bye'). No need to highlight a specific part (or span) in the sentence.\",\"examples\":[{\"expression\":[\"\",\"bye\",\"\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"goodbye\\\" : [ {\\n        \\\"value\\\" : \\\"true\\\"\\n      } ]\\n    }\"}]}",
+        "builtin": true,
+        "values": [
+            {
+                "value": "true",
+                "expressions": []
+            }
+        ]
+    }
+}

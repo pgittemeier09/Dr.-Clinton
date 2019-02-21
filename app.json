@@ -1,0 +1,10 @@
+{
+    "version": 20160513,
+    "zip-command": "zip Clinton.zip Clinton\/app.json Clinton\/entities\/*.json Clinton\/expressions\/*.json",
+    "data": {
+        "name": "Clinton",
+        "description": "",
+        "lang": "en",
+        "timezone": "America\/Chicago"
+    }
+}

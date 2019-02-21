@@ -1,0 +1,13 @@
+{
+    "data": {
+        "lookups": [
+            "free-text"
+        ],
+        "name": "math_expression",
+        "lang": "en",
+        "id": "math_expression",
+        "doc": "{\"spanless\":false,\"short_desc\":\"mathematical expression\",\"long_desc\":\"Captures free text that's a mathematical, computable expression like `2+2`\",\"examples\":[{\"expression\":[\"what is\",\"4+6\",\"?\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"math_expression\\\" : [ {\\n        \\\"value\\\" : \\\"4 +6\\\"\\n      } ]\\n    }\",\"$$hashKey\":\"05N\"}],\"similar_wisps\":[{\"name\":\"\",\"$$hashKey\":\"05P\"}]}",
+        "builtin": true,
+        "values": []
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "lookups": [
+            "free-text"
+        ],
+        "name": "message_subject",
+        "lang": "en",
+        "id": "message_subject",
+        "doc": "Captures free text that's the subject or headline of a message (email, SMS, social media status).",
+        "builtin": true,
+        "values": []
+    }
+}

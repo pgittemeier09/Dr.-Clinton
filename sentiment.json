@@ -1,0 +1,26 @@
+{
+    "data": {
+        "lookups": [
+            "trait"
+        ],
+        "name": "sentiment",
+        "lang": "en",
+        "id": "sentiment",
+        "doc": "BETA - Captures sentiment of the sentence and returns positive, neutral or negative.",
+        "builtin": true,
+        "values": [
+            {
+                "value": "negative",
+                "expressions": []
+            },
+            {
+                "value": "neutral",
+                "expressions": []
+            },
+            {
+                "value": "positive",
+                "expressions": []
+            }
+        ]
+    }
+}

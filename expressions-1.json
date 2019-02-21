@@ -1,0 +1,1660 @@
+{
+    "data": [
+        {
+            "text": "  21",
+            "entities": []
+        },
+        {
+            "text": "15",
+            "entities": []
+        },
+        {
+            "text": "Bye ",
+            "entities": [
+                {
+                    "entity": "bye",
+                    "value": "\"true\""
+                }
+            ]
+        },
+        {
+            "text": "Goodbye ",
+            "entities": [
+                {
+                    "entity": "bye",
+                    "value": "\"true\""
+                }
+            ]
+        },
+        {
+            "text": "Bye bye ",
+            "entities": [
+                {
+                    "entity": "bye",
+                    "value": "\"true\""
+                }
+            ]
+        },
+        {
+            "text": " cya ",
+            "entities": []
+        },
+        {
+            "text": "$20",
+            "entities": []
+        },
+        {
+            "text": "30 ",
+            "entities": []
+        },
+        {
+            "text": "100 ",
+            "entities": []
+        },
+        {
+            "text": "50 ",
+            "entities": []
+        },
+        {
+            "text": " Paul ",
+            "entities": []
+        },
+        {
+            "text": "Patrick ",
+            "entities": []
+        },
+        {
+            "text": "  Johnny ",
+            "entities": []
+        },
+        {
+            "text": "Lauren ",
+            "entities": []
+        },
+        {
+            "text": "Mother ",
+            "entities": []
+        },
+        {
+            "text": "Mum ",
+            "entities": []
+        },
+        {
+            "text": "Marlene ",
+            "entities": []
+        },
+        {
+            "text": "5",
+            "entities": []
+        },
+        {
+            "text": "10 ",
+            "entities": []
+        },
+        {
+            "text": ".5 ",
+            "entities": []
+        },
+        {
+            "text": "99 kilometers ",
+            "entities": []
+        },
+        {
+            "text": "60inches ",
+            "entities": []
+        },
+        {
+            "text": "90 ",
+            "entities": []
+        },
+        {
+            "text": "77 centimeters ",
+            "entities": []
+        },
+        {
+            "text": "Millimeters ",
+            "entities": []
+        },
+        {
+            "text": "Mile ",
+            "entities": []
+        },
+        {
+            "text": "Kilometer ",
+            "entities": []
+        },
+        {
+            "text": "Inch ",
+            "entities": []
+        },
+        {
+            "text": "0 inches ",
+            "entities": []
+        },
+        {
+            "text": "Feet ",
+            "entities": []
+        },
+        {
+            "text": "56 ",
+            "entities": []
+        },
+        {
+            "text": "99 ",
+            "entities": []
+        },
+        {
+            "text": " foot ",
+            "entities": []
+        },
+        {
+            "text": "22 years old ",
+            "entities": []
+        },
+        {
+            "text": "50 years of age ",
+            "entities": []
+        },
+        {
+            "text": "100 days old ",
+            "entities": []
+        },
+        {
+            "text": "1 week old ",
+            "entities": []
+        },
+        {
+            "text": "10 years old ",
+            "entities": []
+        },
+        {
+            "text": "99 years old ",
+            "entities": []
+        },
+        {
+            "text": "66 years of age ",
+            "entities": []
+        },
+        {
+            "text": "3 years old ",
+            "entities": []
+        },
+        {
+            "text": "22",
+            "entities": []
+        },
+        {
+            "text": "How old are you ",
+            "entities": [
+                {
+                    "entity": "age_of_person",
+                    "value": "\"old\"",
+                    "start": 4,
+                    "end": 7
+                }
+            ]
+        },
+        {
+            "text": "How old  ",
+            "entities": [
+                {
+                    "entity": "age_of_person",
+                    "value": "\"old\"",
+                    "start": 4,
+                    "end": 7
+                }
+            ]
+        },
+        {
+            "text": "How old is John",
+            "entities": []
+        },
+        {
+            "text": "How expensive ",
+            "entities": [
+                {
+                    "entity": "age_of_person",
+                    "value": "\"expensive\"",
+                    "start": 4,
+                    "end": 13
+                }
+            ]
+        },
+        {
+            "text": "How much do carrots cost ",
+            "entities": [
+                {
+                    "entity": "age_of_person",
+                    "value": "\"carrots cost\"",
+                    "start": 12,
+                    "end": 24
+                }
+            ]
+        },
+        {
+            "text": " 30 ",
+            "entities": [
+                {
+                    "entity": "age_of_person",
+                    "value": "\"30\"",
+                    "start": 0,
+                    "end": 2
+                }
+            ]
+        },
+        {
+            "text": "69 dollars ",
+            "entities": [
+                {
+                    "entity": "age_of_person",
+                    "value": "\"69\"",
+                    "start": 0,
+                    "end": 2
+                }
+            ]
+        },
+        {
+            "text": "$50",
+            "entities": [
+                {
+                    "entity": "age_of_person",
+                    "value": "\"50\"",
+                    "start": 1,
+                    "end": 3
+                }
+            ]
+        },
+        {
+            "text": "$68",
+            "entities": [
+                {
+                    "entity": "age_of_person",
+                    "value": "\"68\"",
+                    "start": 1,
+                    "end": 3
+                }
+            ]
+        },
+        {
+            "text": "Hello ",
+            "entities": [
+                {
+                    "entity": "greetings",
+                    "value": "\"true\""
+                }
+            ]
+        },
+        {
+            "text": "Salutations ",
+            "entities": [
+                {
+                    "entity": "age_of_person",
+                    "value": "\"Salutations\"",
+                    "start": 0,
+                    "end": 11
+                },
+                {
+                    "entity": "greetings",
+                    "value": "\"true\""
+                },
+                {
+                    "entity": "bye",
+                    "value": "\"true\""
+                }
+            ]
+        },
+        {
+            "text": "Sup ",
+            "entities": [
+                {
+                    "entity": "greetings",
+                    "value": "\"true\""
+                }
+            ]
+        },
+        {
+            "text": "Good day ",
+            "entities": [
+                {
+                    "entity": "greetings",
+                    "value": "\"true\""
+                },
+                {
+                    "entity": "bye",
+                    "value": "\"true\""
+                }
+            ]
+        },
+        {
+            "text": "@HwHwiHwit.",
+            "entities": []
+        },
+        {
+            "text": "Pgittemeier09@gmail.com ",
+            "entities": []
+        },
+        {
+            "text": "Er@.",
+            "entities": []
+        },
+        {
+            "text": "Patrickhatesclintrider@gmail.com ",
+            "entities": []
+        },
+        {
+            "text": "@",
+            "entities": []
+        },
+        {
+            "text": "Pgittemeier09jayhawks7 ",
+            "entities": []
+        },
+        {
+            "text": " patrick@patrickscfb.com",
+            "entities": []
+        },
+        {
+            "text": "patrick@patrickscfb.com",
+            "entities": []
+        },
+        {
+            "text": "pgittemeier09@outlook.com",
+            "entities": []
+        },
+        {
+            "text": "patrick@patrickscfb.ml",
+            "entities": []
+        },
+        {
+            "text": "pgittemeier09@gmail.com",
+            "entities": []
+        },
+        {
+            "text": "Gmail.com ",
+            "entities": []
+        },
+        {
+            "text": "Outlook.com ",
+            "entities": []
+        },
+        {
+            "text": "crider@yahoo.com",
+            "entities": []
+        },
+        {
+            "text": "His email address is pgittemeier09@gmail.com ",
+            "entities": []
+        },
+        {
+            "text": "What's your email ",
+            "entities": []
+        },
+        {
+            "text": "marlsrenee14@gmail.com",
+            "entities": []
+        },
+        {
+            "text": "2+2",
+            "entities": []
+        },
+        {
+            "text": "7\u00d78",
+            "entities": []
+        },
+        {
+            "text": "99",
+            "entities": []
+        },
+        {
+            "text": "7 minus 6",
+            "entities": []
+        },
+        {
+            "text": "6 divided by 4",
+            "entities": [
+                {
+                    "entity": "math_expression",
+                    "value": "\"divided\"",
+                    "start": 2,
+                    "end": 9
+                }
+            ]
+        },
+        {
+            "text": "7 multiplied by 5",
+            "entities": [
+                {
+                    "entity": "math_expression",
+                    "value": "\"multiplied\"",
+                    "start": 2,
+                    "end": 12
+                }
+            ]
+        },
+        {
+            "text": "Six ",
+            "entities": [
+                {
+                    "entity": "age_of_person",
+                    "value": "\"Six\"",
+                    "start": 0,
+                    "end": 3
+                }
+            ]
+        },
+        {
+            "text": "Eight ",
+            "entities": [
+                {
+                    "entity": "number",
+                    "value": "\"Eight\"",
+                    "start": 0,
+                    "end": 5
+                }
+            ]
+        },
+        {
+            "text": "16",
+            "entities": [
+                {
+                    "entity": "number",
+                    "value": "16",
+                    "start": 0,
+                    "end": 2
+                }
+            ]
+        },
+        {
+            "text": "678",
+            "entities": [
+                {
+                    "entity": "number",
+                    "value": "678",
+                    "start": 0,
+                    "end": 3
+                }
+            ]
+        },
+        {
+            "text": "$55.",
+            "entities": [
+                {
+                    "entity": "amount_of_money",
+                    "value": "\"55\"",
+                    "start": 1,
+                    "end": 3
+                }
+            ]
+        },
+        {
+            "text": "77 million dollars ",
+            "entities": [
+                {
+                    "entity": "amount_of_money",
+                    "value": "77000000",
+                    "start": 0,
+                    "end": 18
+                }
+            ]
+        },
+        {
+            "text": "Tomorrow night 6PM ",
+            "entities": [
+                {
+                    "entity": "datetime",
+                    "value": "\"night\"",
+                    "start": 9,
+                    "end": 14
+                }
+            ]
+        },
+        {
+            "text": "Yesterday ",
+            "entities": [
+                {
+                    "entity": "datetime",
+                    "value": "\"2019-02-15T00:00:00.000-06:00\"",
+                    "start": 0,
+                    "end": 9
+                }
+            ]
+        },
+        {
+            "text": "Next week ",
+            "entities": [
+                {
+                    "entity": "datetime",
+                    "value": "\"2019-02-18T00:00:00.000-06:00\"",
+                    "start": 0,
+                    "end": 9
+                }
+            ]
+        },
+        {
+            "text": "4PM tomorrow ",
+            "entities": [
+                {
+                    "entity": "datetime",
+                    "value": "\"2019-02-17T16:00:00.000-06:00\"",
+                    "start": 0,
+                    "end": 12
+                }
+            ]
+        },
+        {
+            "text": "5 miles ",
+            "entities": [
+                {
+                    "entity": "distance",
+                    "value": "\"miles\"",
+                    "start": 2,
+                    "end": 7
+                }
+            ]
+        },
+        {
+            "text": "30 kilometers ",
+            "entities": [
+                {
+                    "entity": "distance",
+                    "value": "30",
+                    "start": 0,
+                    "end": 13
+                }
+            ]
+        },
+        {
+            "text": "17 miles ",
+            "entities": [
+                {
+                    "entity": "distance",
+                    "value": "17",
+                    "start": 0,
+                    "end": 8
+                }
+            ]
+        },
+        {
+            "text": "30 minutes ",
+            "entities": [
+                {
+                    "entity": "duration",
+                    "value": "\"30\"",
+                    "start": 0,
+                    "end": 2
+                }
+            ]
+        },
+        {
+            "text": "75 seconds ",
+            "entities": [
+                {
+                    "entity": "duration",
+                    "value": "75",
+                    "start": 0,
+                    "end": 10
+                }
+            ]
+        },
+        {
+            "text": "9 hours ",
+            "entities": [
+                {
+                    "entity": "duration",
+                    "value": "9",
+                    "start": 0,
+                    "end": 7
+                }
+            ]
+        },
+        {
+            "text": "73 minutes ",
+            "entities": [
+                {
+                    "entity": "duration",
+                    "value": "73",
+                    "start": 0,
+                    "end": 10
+                }
+            ]
+        },
+        {
+            "text": "Pizza ",
+            "entities": []
+        },
+        {
+            "text": "Flower shop ",
+            "entities": []
+        },
+        {
+            "text": "Pizza place ",
+            "entities": [
+                {
+                    "entity": "local_search_query",
+                    "value": "\"Pizza\"",
+                    "start": 0,
+                    "end": 5
+                }
+            ]
+        },
+        {
+            "text": "Starbucks ",
+            "entities": [
+                {
+                    "entity": "local_search_query",
+                    "value": "\"Starbucks\"",
+                    "start": 0,
+                    "end": 9
+                }
+            ]
+        },
+        {
+            "text": "Mall ",
+            "entities": [
+                {
+                    "entity": "local_search_query",
+                    "value": "\"Mall\"",
+                    "start": 0,
+                    "end": 4
+                }
+            ]
+        },
+        {
+            "text": "1120 n julia st ",
+            "entities": [
+                {
+                    "entity": "location",
+                    "value": "\"1120 n julia st\"",
+                    "start": 0,
+                    "end": 16
+                }
+            ]
+        },
+        {
+            "text": "LAX ",
+            "entities": [
+                {
+                    "entity": "location",
+                    "value": "\"LAX\"",
+                    "start": 0,
+                    "end": 3
+                }
+            ]
+        },
+        {
+            "text": "530 w Palo dr ",
+            "entities": [
+                {
+                    "entity": "location",
+                    "value": "\"530\"",
+                    "start": 0,
+                    "end": 3
+                }
+            ]
+        },
+        {
+            "text": "John Elway ",
+            "entities": [
+                {
+                    "entity": "notable_person",
+                    "value": "\"Elway\"",
+                    "start": 5,
+                    "end": 10
+                }
+            ]
+        },
+        {
+            "text": "Andy Reid ",
+            "entities": [
+                {
+                    "entity": "local_search_query",
+                    "value": "\"Andy\"",
+                    "start": 0,
+                    "end": 4
+                },
+                {
+                    "entity": "greetings",
+                    "value": "\"true\""
+                },
+                {
+                    "entity": "notable_person",
+                    "value": "\"Reid\"",
+                    "start": 5,
+                    "end": 9
+                }
+            ]
+        },
+        {
+            "text": "Patrick Mahomes ",
+            "entities": [
+                {
+                    "entity": "local_search_query",
+                    "value": "\"Patrick Mahomes\"",
+                    "start": 0,
+                    "end": 15,
+                    "subentities": [
+                        {
+                            "entity": "notable_person",
+                            "value": "\"Patrick\"",
+                            "start": 0,
+                            "end": 7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Tom Brady ",
+            "entities": [
+                {
+                    "entity": "notable_person",
+                    "value": "\"Tom Brady\"",
+                    "start": 0,
+                    "end": 10
+                }
+            ]
+        },
+        {
+            "text": "Jared Goff ",
+            "entities": [
+                {
+                    "entity": "notable_person",
+                    "value": "\"Jared\"",
+                    "start": 0,
+                    "end": 5
+                }
+            ]
+        },
+        {
+            "text": "Joe Montana ",
+            "entities": [
+                {
+                    "entity": "notable_person",
+                    "value": "\"Joe\"",
+                    "start": 0,
+                    "end": 3
+                }
+            ]
+        },
+        {
+            "text": "Turn off the lights ",
+            "entities": [
+                {
+                    "entity": "on_off",
+                    "value": "\"Turn off the lights\"",
+                    "start": 0,
+                    "end": 20
+                }
+            ]
+        },
+        {
+            "text": "Turn on ",
+            "entities": [
+                {
+                    "entity": "on_off",
+                    "value": "\"on\""
+                }
+            ]
+        },
+        {
+            "text": "Turn on the stadium ",
+            "entities": [
+                {
+                    "entity": "on_off",
+                    "value": "\"on\""
+                }
+            ]
+        },
+        {
+            "text": "Turn off the heat ",
+            "entities": [
+                {
+                    "entity": "on_off",
+                    "value": "\"off\""
+                }
+            ]
+        },
+        {
+            "text": "You turn me on ",
+            "entities": [
+                {
+                    "entity": "on_off",
+                    "value": "\"on\""
+                }
+            ]
+        },
+        {
+            "text": "Toggle the shade ",
+            "entities": [
+                {
+                    "entity": "on_off",
+                    "value": "\"toggle\""
+                }
+            ]
+        },
+        {
+            "text": "Turning on my computer now ",
+            "entities": [
+                {
+                    "entity": "on_off",
+                    "value": "\"on\""
+                }
+            ]
+        },
+        {
+            "text": "$75",
+            "entities": [
+                {
+                    "entity": "amount_of_money",
+                    "value": "\"$\"",
+                    "start": 0,
+                    "end": 1
+                }
+            ]
+        },
+        {
+            "text": "$770",
+            "entities": [
+                {
+                    "entity": "amount_of_money",
+                    "value": "7",
+                    "start": 1,
+                    "end": 2
+                }
+            ]
+        },
+        {
+            "text": "First second third ",
+            "entities": [
+                {
+                    "entity": "ordinal",
+                    "value": "\"First\"",
+                    "start": 0,
+                    "end": 5
+                }
+            ]
+        },
+        {
+            "text": "11st 2nd ",
+            "entities": [
+                {
+                    "entity": "ordinal",
+                    "value": "11",
+                    "start": 0,
+                    "end": 4
+                },
+                {
+                    "entity": "ordinal",
+                    "value": "2",
+                    "start": 5,
+                    "end": 8
+                }
+            ]
+        },
+        {
+            "text": "1st 2nd 3rd ",
+            "entities": [
+                {
+                    "entity": "ordinal",
+                    "value": "1",
+                    "start": 0,
+                    "end": 3
+                },
+                {
+                    "entity": "ordinal",
+                    "value": "2",
+                    "start": 4,
+                    "end": 7
+                },
+                {
+                    "entity": "ordinal",
+                    "value": "3",
+                    "start": 8,
+                    "end": 11
+                }
+            ]
+        },
+        {
+            "text": "913-987-6544",
+            "entities": [
+                {
+                    "entity": "phone_number",
+                    "value": "\"-\"",
+                    "start": 3,
+                    "end": 4
+                }
+            ]
+        },
+        {
+            "text": "816-876-5567",
+            "entities": [
+                {
+                    "entity": "phone_number",
+                    "value": "\"816-876-5567\"",
+                    "start": 0,
+                    "end": 12
+                }
+            ]
+        },
+        {
+            "text": "Rolling stone gathers no moss ",
+            "entities": [
+                {
+                    "entity": "phrase_to_translate",
+                    "value": "\"Rolling\"",
+                    "start": 0,
+                    "end": 7
+                }
+            ]
+        },
+        {
+            "text": "Imagination is more important than ",
+            "entities": [
+                {
+                    "entity": "phrase_to_translate",
+                    "value": "\"is more important than\"",
+                    "start": 12,
+                    "end": 34
+                }
+            ]
+        },
+        {
+            "text": "Float like a butterfly sting ",
+            "entities": [
+                {
+                    "entity": "phrase_to_translate",
+                    "value": "\"like a butterfly\"",
+                    "start": 6,
+                    "end": 22
+                }
+            ]
+        },
+        {
+            "text": "What does that mean ",
+            "entities": [
+                {
+                    "entity": "phrase_to_translate",
+                    "value": "\"that\"",
+                    "start": 10,
+                    "end": 14
+                }
+            ]
+        },
+        {
+            "text": "4 cups sugar two tablespoons of water ",
+            "entities": [
+                {
+                    "entity": "quantity",
+                    "value": "\"tablespoons\"",
+                    "start": 17,
+                    "end": 28
+                }
+            ]
+        },
+        {
+            "text": "Three ounce or 9 teaspoon ",
+            "entities": [
+                {
+                    "entity": "quantity",
+                    "value": "3",
+                    "start": 0,
+                    "end": 11
+                }
+            ]
+        },
+        {
+            "text": "Buy some milk ",
+            "entities": [
+                {
+                    "entity": "reminder",
+                    "value": "\"Buy\"",
+                    "start": 0,
+                    "end": 3
+                }
+            ]
+        },
+        {
+            "text": "Pick up medicine ",
+            "entities": [
+                {
+                    "entity": "local_search_query",
+                    "value": "\"medicine\"",
+                    "start": 8,
+                    "end": 16
+                }
+            ]
+        },
+        {
+            "text": "Pay the mortgage ",
+            "entities": [
+                {
+                    "entity": "reminder",
+                    "value": "\"Pay the mortgage\"",
+                    "start": 0,
+                    "end": 16
+                }
+            ]
+        },
+        {
+            "text": "Search for history of football ",
+            "entities": [
+                {
+                    "entity": "search_query",
+                    "value": "\"Search\"",
+                    "start": 0,
+                    "end": 6
+                }
+            ]
+        },
+        {
+            "text": "Search for best football defense ",
+            "entities": [
+                {
+                    "entity": "local_search_query",
+                    "value": "\"Search\"",
+                    "start": 0,
+                    "end": 6
+                }
+            ]
+        },
+        {
+            "text": "Search Google for photos ",
+            "entities": [
+                {
+                    "entity": "search_query",
+                    "value": "\"Google\"",
+                    "start": 7,
+                    "end": 13
+                }
+            ]
+        },
+        {
+            "text": "Wolfram search ",
+            "entities": [
+                {
+                    "entity": "math_expression",
+                    "value": "\"Wolfram search\"",
+                    "start": 0,
+                    "end": 14,
+                    "subentities": [
+                        {
+                            "entity": "search_query",
+                            "value": "\"Wolfram\"",
+                            "start": 0,
+                            "end": 7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Why do bad things happen to me ",
+            "entities": [
+                {
+                    "entity": "search_query",
+                    "value": "\"bad\"",
+                    "start": 7,
+                    "end": 10
+                },
+                {
+                    "entity": "sentiment",
+                    "value": "\"negative\""
+                }
+            ]
+        },
+        {
+            "text": "How to pay taxes ",
+            "entities": [
+                {
+                    "entity": "sentiment",
+                    "value": "\"negative\""
+                },
+                {
+                    "entity": "reminder",
+                    "value": "\"pay taxes\"",
+                    "start": 7,
+                    "end": 16
+                }
+            ]
+        },
+        {
+            "text": "Directions to the championship game ",
+            "entities": [
+                {
+                    "entity": "sentiment",
+                    "value": "\"positive\""
+                },
+                {
+                    "entity": "location",
+                    "value": "\"the championship game\"",
+                    "start": 14,
+                    "end": 35
+                }
+            ]
+        },
+        {
+            "text": "Setup my Christmas list ",
+            "entities": [
+                {
+                    "entity": "sentiment",
+                    "value": "\"positive\""
+                },
+                {
+                    "entity": "agenda_entry",
+                    "value": "\"Setup\"",
+                    "start": 0,
+                    "end": 5
+                },
+                {
+                    "entity": "datetime",
+                    "value": "\"2019-12-25T00:00:00.000-06:00\"",
+                    "start": 9,
+                    "end": 18
+                }
+            ]
+        },
+        {
+            "text": "Don't leave ",
+            "entities": [
+                {
+                    "entity": "sentiment",
+                    "value": "\"negative\""
+                }
+            ]
+        },
+        {
+            "text": "Celsius ",
+            "entities": [
+                {
+                    "entity": "temperature",
+                    "value": "\"Celsius\"",
+                    "start": 0,
+                    "end": 8
+                }
+            ]
+        },
+        {
+            "text": "Farenheit ",
+            "entities": [
+                {
+                    "entity": "temperature",
+                    "value": "\"Farenheit\"",
+                    "start": 0,
+                    "end": 9
+                }
+            ]
+        },
+        {
+            "text": "Thanks ",
+            "entities": [
+                {
+                    "entity": "sentiment",
+                    "value": "\"positive\""
+                },
+                {
+                    "entity": "thanks",
+                    "value": "\"true\""
+                }
+            ]
+        },
+        {
+            "text": "Thank you ",
+            "entities": [
+                {
+                    "entity": "thanks",
+                    "value": "\"true\""
+                }
+            ]
+        },
+        {
+            "text": "We give thanks ",
+            "entities": [
+                {
+                    "entity": "thanks",
+                    "value": "\"true\""
+                },
+                {
+                    "entity": "sentiment",
+                    "value": "\"positive\""
+                },
+                {
+                    "entity": "message_subject",
+                    "value": "\"give\"",
+                    "start": 3,
+                    "end": 7
+                }
+            ]
+        },
+        {
+            "text": "God bless ",
+            "entities": [
+                {
+                    "entity": "sentiment",
+                    "value": "\"positive\""
+                },
+                {
+                    "entity": "bye",
+                    "value": "\"true\""
+                },
+                {
+                    "entity": "thanks",
+                    "value": "\"true\""
+                }
+            ]
+        },
+        {
+            "text": "https:\/\/patrickscfb ",
+            "entities": [
+                {
+                    "entity": "url",
+                    "value": "\"https\"",
+                    "start": 0,
+                    "end": 5
+                }
+            ]
+        },
+        {
+            "text": "www.patrickscfb.ml ",
+            "entities": [
+                {
+                    "entity": "url",
+                    "value": "\"www.patrickscfb.ml\"",
+                    "start": 0,
+                    "end": 18
+                }
+            ]
+        },
+        {
+            "text": "www.patrickgittemeier.wordpress.com ",
+            "entities": [
+                {
+                    "entity": "url",
+                    "value": "\"www.patrickgittemeier.wordpress.com\"",
+                    "start": 0,
+                    "end": 35
+                }
+            ]
+        },
+        {
+            "text": "Three gallons ",
+            "entities": [
+                {
+                    "entity": "number",
+                    "value": "3",
+                    "start": 0,
+                    "end": 5
+                },
+                {
+                    "entity": "volume",
+                    "value": "\"gallons\"",
+                    "start": 6,
+                    "end": 13
+                }
+            ]
+        },
+        {
+            "text": "4 mL ",
+            "entities": [
+                {
+                    "entity": "volume",
+                    "value": "4",
+                    "start": 0,
+                    "end": 4
+                }
+            ]
+        },
+        {
+            "text": "Distance between earth and moon ",
+            "entities": [
+                {
+                    "entity": "wolfram_search_query",
+                    "value": "\"between\"",
+                    "start": 9,
+                    "end": 16
+                }
+            ]
+        },
+        {
+            "text": "Distance between earth and Mars ",
+            "entities": [
+                {
+                    "entity": "search_query",
+                    "value": "\"Distance\"",
+                    "start": 0,
+                    "end": 8
+                },
+                {
+                    "entity": "sentiment",
+                    "value": "\"neutral\""
+                },
+                {
+                    "entity": "wolfram_search_query",
+                    "value": "\"between\"",
+                    "start": 9,
+                    "end": 16
+                },
+                {
+                    "entity": "location",
+                    "value": "\"Mars\"",
+                    "start": 27,
+                    "end": 31
+                }
+            ]
+        },
+        {
+            "text": "Christopher Columbus ",
+            "entities": [
+                {
+                    "entity": "notable_person",
+                    "value": "{\"name\":\"Prince\",\"external\":{\"wikidata\":\"Q7542\",\"wikipedia\":\"Prince (musician)\"}}",
+                    "start": 0,
+                    "end": 11,
+                    "subentities": [
+                        {
+                            "entity": "wikipedia_search_query",
+                            "value": "\"Christopher\"",
+                            "start": 0,
+                            "end": 11
+                        }
+                    ]
+                },
+                {
+                    "entity": "sentiment",
+                    "value": "\"neutral\""
+                },
+                {
+                    "entity": "location",
+                    "value": "\"Columbus\"",
+                    "start": 12,
+                    "end": 20
+                }
+            ]
+        },
+        {
+            "text": "Queen Elizabeth ",
+            "entities": [
+                {
+                    "entity": "search_query",
+                    "value": "\"Queen Elizabeth\"",
+                    "start": 0,
+                    "end": 15,
+                    "subentities": [
+                        {
+                            "entity": "wikipedia_search_query",
+                            "value": "\"Elizabeth\"",
+                            "start": 6,
+                            "end": 15
+                        }
+                    ]
+                },
+                {
+                    "entity": "sentiment",
+                    "value": "\"neutral\""
+                },
+                {
+                    "entity": "on_off",
+                    "value": "\"on\""
+                }
+            ]
+        },
+        {
+            "text": "King Arthur ",
+            "entities": [
+                {
+                    "entity": "wikipedia_search_query",
+                    "value": "\"King\"",
+                    "start": 0,
+                    "end": 4
+                }
+            ]
+        },
+        {
+            "text": "War of the rose ",
+            "entities": [
+                {
+                    "entity": "search_query",
+                    "value": "\"War of the rose\"",
+                    "start": 0,
+                    "end": 15,
+                    "subentities": [
+                        {
+                            "entity": "wikipedia_search_query",
+                            "value": "\"of\"",
+                            "start": 4,
+                            "end": 6
+                        }
+                    ]
+                },
+                {
+                    "entity": "sentiment",
+                    "value": "\"neutral\""
+                }
+            ]
+        },
+        {
+            "text": "Seattle Seahawks quarterback ",
+            "entities": [
+                {
+                    "entity": "location",
+                    "value": "\"Seattle\"",
+                    "start": 0,
+                    "end": 7
+                },
+                {
+                    "entity": "sentiment",
+                    "value": "\"neutral\""
+                },
+                {
+                    "entity": "wikipedia_search_query",
+                    "value": "\"quarterback\"",
+                    "start": 17,
+                    "end": 28
+                }
+            ]
+        },
+        {
+            "text": "Milk banana bread strawberries gravy ",
+            "entities": [
+                {
+                    "entity": "agenda_entry",
+                    "value": "\"Milk banana bread strawberries\"",
+                    "start": 0,
+                    "end": 30
+                }
+            ]
+        },
+        {
+            "text": "Lord of the rings ",
+            "entities": [
+                {
+                    "entity": "sentiment",
+                    "value": "\"positive\""
+                },
+                {
+                    "entity": "creative_work",
+                    "value": "\"Lord\"",
+                    "start": 0,
+                    "end": 4
+                }
+            ]
+        },
+        {
+            "text": "Hello Sabrina ",
+            "entities": [
+                {
+                    "entity": "agenda_entry",
+                    "value": "\"Hello\"",
+                    "start": 0,
+                    "end": 5
+                },
+                {
+                    "entity": "sentiment",
+                    "value": "\"neutral\""
+                },
+                {
+                    "entity": "greetings",
+                    "value": "\"true\""
+                },
+                {
+                    "entity": "notable_person",
+                    "value": "{\"name\":\"Sabrina\",\"external\":{\"wikidata\":\"Q7396392\",\"wikipedia\":\"Sabrina (Greek singer)\"}}",
+                    "start": 6,
+                    "end": 13,
+                    "subentities": [
+                        {
+                            "entity": "message_subject",
+                            "value": "\"Sabrina\"",
+                            "start": 0,
+                            "end": 7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "How to coach football ",
+            "entities": [
+                {
+                    "entity": "sentiment",
+                    "value": "\"neutral\""
+                },
+                {
+                    "entity": "intent",
+                    "value": "\"Optimum\""
+                },
+                {
+                    "entity": "local_search_query",
+                    "value": "\"How to coach football\"",
+                    "start": 0,
+                    "end": 22
+                }
+            ]
+        },
+        {
+            "text": "Shut the door ",
+            "entities": [
+                {
+                    "entity": "agenda_entry",
+                    "value": "\"Shut\"",
+                    "start": 0,
+                    "end": 4
+                },
+                {
+                    "entity": "sentiment",
+                    "value": "\"negative\""
+                },
+                {
+                    "entity": "on_off",
+                    "value": "\"off\""
+                }
+            ]
+        },
+        {
+            "text": "Fasten your seatbelts ",
+            "entities": [
+                {
+                    "entity": "on_off",
+                    "value": "\"on\""
+                },
+                {
+                    "entity": "message_body",
+                    "value": "\"seatbelts\"",
+                    "start": 12,
+                    "end": 21
+                }
+            ]
+        },
+        {
+            "text": "Adjust the temperature fifteen degrees Fahrenheit ",
+            "entities": [
+                {
+                    "entity": "agenda_entry",
+                    "value": "\"Adjust\"",
+                    "start": 0,
+                    "end": 6
+                },
+                {
+                    "entity": "on_off",
+                    "value": "\"on\""
+                },
+                {
+                    "entity": "sentiment",
+                    "value": "\"neutral\""
+                },
+                {
+                    "entity": "message_body",
+                    "value": "\"the temperature\"",
+                    "start": 7,
+                    "end": 22
+                },
+                {
+                    "entity": "temperature",
+                    "value": "15",
+                    "start": 23,
+                    "end": 49,
+                    "subentities": [
+                        {
+                            "entity": "number",
+                            "value": "\"fifteen\"",
+                            "start": 0,
+                            "end": 7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "What's the temperature inside ",
+            "entities": [
+                {
+                    "entity": "intent",
+                    "value": "\"Temperature_get\""
+                }
+            ]
+        },
+        {
+            "text": "Is it me or is it hot in here ",
+            "entities": [
+                {
+                    "entity": "intent",
+                    "value": "\"Temperature_get\""
+                }
+            ]
+        },
+        {
+            "text": "What's the current temperature ",
+            "entities": [
+                {
+                    "entity": "intent",
+                    "value": "\"Temperature_get\""
+                }
+            ]
+        },
+        {
+            "text": "Set the temperature to 70 degrees ",
+            "entities": [
+                {
+                    "entity": "intent",
+                    "value": "\"Temperature_set\""
+                },
+                {
+                    "entity": "temperature",
+                    "value": "\"to\"",
+                    "start": 20,
+                    "end": 22
+                }
+            ]
+        },
+        {
+            "text": "Set to 62 degrees ",
+            "entities": [
+                {
+                    "entity": "temperature",
+                    "value": "62",
+                    "start": 7,
+                    "end": 17
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "data": {
+        "lookups": [],
+        "name": "creative_work",
+        "lang": "en",
+        "id": "creative_work",
+        "doc": "BETA - Captures and resolves creative work including movies, tv shows, music albums and tracks.",
+        "builtin": true,
+        "values": []
+    }
+}

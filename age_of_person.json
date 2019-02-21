@@ -1,0 +1,13 @@
+{
+    "data": {
+        "lookups": [
+            "free-text"
+        ],
+        "name": "age_of_person",
+        "lang": "en",
+        "id": "age_of_person",
+        "doc": "{\"spanless\":false,\"short_desc\":\"measure of an age\",\"long_desc\":\"The age of a person, pet or object, like \u201822 years old\u2019. The entity returns an integer, representing the year. It does not support smaller granularity ( months, weeks, etc )\",\"examples\":[{\"expression\":[\"a\",\"3y old\",\"son\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"age_of_person\\\" : [ {\\n        \\\"value\\\" : \\\"3y old\\\"\\n      } ]\\n    }\",\"$$hashKey\":\"05B\"},{\"expression\":[\"I'm\",\"36 years\",\"\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"age_of_person\\\" : [ {\\n        \\\"value\\\" : \\\"36 years\\\"\\n      } ]\\n    }\",\"$$hashKey\":\"089\"}],\"similar_wisps\":[{\"name\":\"\",\"$$hashKey\":\"05D\"}]}",
+        "builtin": true,
+        "values": []
+    }
+}

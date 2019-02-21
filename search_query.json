@@ -1,0 +1,13 @@
+{
+    "data": {
+        "lookups": [
+            "free-text"
+        ],
+        "name": "search_query",
+        "lang": "en",
+        "id": "search_query",
+        "doc": "Captures free text that's a generic search engine query. If you can, use more specialized queries instead (wit\/local_search_query, wit\/wikipedia_search_query, wit\/wolfram_search_query).",
+        "builtin": true,
+        "values": []
+    }
+}

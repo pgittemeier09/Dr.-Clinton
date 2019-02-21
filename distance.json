@@ -1,0 +1,13 @@
+{
+    "data": {
+        "lookups": [
+            "free-text"
+        ],
+        "name": "distance",
+        "lang": "en",
+        "id": "distance",
+        "doc": "{\"spanless\":false,\"short_desc\":\"measure of a distance\",\"long_desc\":\"Capture a distance in miles or kilometers like `5km`, `5 miles` and `12m`.\",\"examples\":[{\"expression\":[\"a\",\"5km\",\"run\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"distance\\\" : [ {\\n        \\\"type\\\" : \\\"value\\\",\\n        \\\"value\\\" : 5,\\n        \\\"unit\\\" : \\\"kilometre\\\"\\n      } ]\\n    }\",\"$$hashKey\":\"07D\"},{\"expression\":[\"I ran for\",\"15 miles\",\"\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"distance\\\" : [ {\\n        \\\"type\\\" : \\\"value\\\",\\n        \\\"value\\\" : 15,\\n        \\\"unit\\\" : \\\"mile\\\"\\n      } ]\\n    }\",\"$$hashKey\":\"084\"},{\"expression\":[\"\",\"2cm\",\"\"],\"response\":\"\\\"entities\\\" : {\\n      \\\"distance\\\" : [ {\\n        \\\"type\\\" : \\\"value\\\",\\n        \\\"value\\\" : 2,\\n        \\\"unit\\\" : \\\"centimetre\\\"\\n      } ]\\n    }\",\"$$hashKey\":\"086\"}],\"similar_wisps\":[{\"name\":\"\",\"$$hashKey\":\"07F\"}]}",
+        "builtin": true,
+        "values": []
+    }
+}

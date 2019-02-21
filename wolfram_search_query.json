@@ -1,0 +1,13 @@
+{
+    "data": {
+        "lookups": [
+            "free-text"
+        ],
+        "name": "wolfram_search_query",
+        "lang": "en",
+        "id": "wolfram_search_query",
+        "doc": "Captures free text that's a typical query for Wolfram Alpha, like `distance between the Earth and the moon`.",
+        "builtin": true,
+        "values": []
+    }
+}
